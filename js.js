@@ -11,6 +11,7 @@ btn.addEventListener("click", function(){
 
     if (name && email && num && morada && nif){
         console.log(name, email, num, morada, nif)
+        alert("Formulário recebido, obrigado!")
     }
     else{
         alert("Porfavor preencha todos os campos")
