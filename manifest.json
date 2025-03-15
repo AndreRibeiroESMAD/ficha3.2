@@ -1,0 +1,10 @@
+{
+    "name": "Euromelhoes - ficha3",
+    "short_name": "ficha3",
+    "start_url": "https://andreribeiroesmad.github.io/ficha3.2/",
+    "theme_color": "#000000",
+    "background_color": "#FFFFFF",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "."
+  }
